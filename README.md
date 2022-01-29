@@ -1,6 +1,8 @@
-# Robo Friends App
+# Robofriends App
 
 ## Preview
+[https://lorchik7.github.io/robofriends/](https://lorchik7.github.io/robofriends/)
+
 ![robofriends screenshot](/assets/images/robofriends-screen.png "Robofriends screenshot")
 
 <!-- ABOUT THE PROJECT -->
