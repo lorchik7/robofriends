@@ -53,13 +53,10 @@ This is an exercise part of The Complete Web Developer in 2022 course.
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Tachyons](https://tachyons.io/docs/)
 * [ZtM](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 * [SEGA Font](https://www.dafont.com/sega.font)
-* [RoboHash](https://robohash.org/)
+* [RoboHash API](https://robohash.org/)
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [product-screenshot]: images/screenshot.png
