@@ -16,7 +16,7 @@ This is a simple [React.js](https://reactjs.org/) app which displays a list of r
 
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install react@17.0.0 react-dom@17.0.0
   ```
 
 ### Installation
@@ -59,4 +59,3 @@ This is an exercise part of The Complete Web Developer in 2022 course.
 * [RoboHash API](https://robohash.org/)
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/screenshot.png
